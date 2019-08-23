@@ -1,1 +1,2 @@
 # mygit
+THIS IS MY FIRST PROJECT
